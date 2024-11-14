@@ -1,0 +1,8 @@
+domain\Partido.class
+datos\Conexion.class
+domain\Estadistica.class
+negocio\FuncionesImpl.class
+test\Presentación.class
+datos\PartidoDaoJDBC.class
+negocio\IFunciones.class
+datos\IPartidoDao.class
